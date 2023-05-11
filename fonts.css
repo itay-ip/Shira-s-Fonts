@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'ploni';
+  src: url('fonts/ploni-regular-aaa.woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'ploni';
+  src: url('fonts/ploni-demibold-aaa.woff2');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'ploni';
+  src: url('fonts/ploni-bold-aaa.woff2');
+  font-weight: 700;
+}
