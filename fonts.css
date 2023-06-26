@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'ploni';
-  src: url('https://github.com/itay-ip/Shira-s-Fonts/blob/main/fonts/ploni-regular-aaa.woff2');
+  src: url('https://github.com/itay-ip/Shira-s-Fonts/raw/main/fonts/ploni-demibold-aaa.woff2');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'ploni';
-  src: url('https://github.com/itay-ip/Shira-s-Fonts/blob/main/fonts/ploni-demibold-aaa.woff2');
+  src: url('https://github.com/itay-ip/Shira-s-Fonts/raw/main/fonts/ploni-demibold-aaa.woff2');
   font-weight: 600;
 }
 
 @font-face {
   font-family: 'ploni';
-  src: url('https://github.com/itay-ip/Shira-s-Fonts/blob/main/fonts/ploni-demibold-aaa.woff2');
+  src: url('https://github.com/itay-ip/Shira-s-Fonts/raw/main/fonts/ploni-demibold-aaa.woff2');
   font-weight: 700;
 }
